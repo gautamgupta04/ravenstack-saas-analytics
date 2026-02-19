@@ -169,7 +169,7 @@ All dashboards are fully interactive with slicers for:
 ravenstack-saas-analytics/
 │
 ├── data/
-│   └── raw_saas_dataset.csv
+│   └── raw_saas_dataset.zip
 │
 ├── sql/
 │   └── Ravenstack_Saas_prj.sql
